@@ -1,0 +1,55 @@
+<html>
+<head>
+  <title>BACKGROUND IMAGE</title>
+</head>
+
+
+<body style="background-color:brown">
+
+<center>
+
+
+
+
+<h1><font color="8A2BE2"><font size="26">PC COMPONENTS</font></h1>
+
+
+
+
+<img src="C:\Users\Krish\Downloads\star.png" height="300" width="450">
+
+
+<table border="6" table cellspacing="6" table cellpadding="6">
+
+<tr>
+<th><font color="GOLD">MOTHERBOARD</font></th>
+<th><font color="MAROON">PROCESSER</font></th>
+<th><font color="0000CD">RAM</font></th>
+<th><font color="00FF7F">STORAGE</th>
+<th><font color="9ACD32">GRAPHIC CARD</font></th>
+<th><font color="DA70D6">POWER SUPPLY</font></th>
+
+
+<tr>
+<td><font color="9ACD32">MSI PRO B650M</font></td>
+<td><font color="0000CD">RYZEN 7</font></td>
+<td><font color="GOLD">16GB DDR4</font></td>
+<td><font color="9ACD32">SSD 512GB</font></td>
+<td><font color="DA70D6">RTX 3060 TI</font></font>
+<td><font color="00FF7F">ARTIS 500 WATT</font></td>
+
+
+<tr>
+<td><font color="DA70D6">MSI B550M PRO</font></td>
+<td><font color="GOLD">INTEL I7</font></td>
+<td><font color="9ACD32">32GB DDR5</font></td>
+<td><font color="00FF7F">SSD 1TB</font></td>
+<td><font color="0000CD">RTX 4060</font></td>
+<td><font color="8A2BE2">ANT Esport VS500L</font></td>
+
+
+</tr>
+
+</center>
+</body>
+</html>
