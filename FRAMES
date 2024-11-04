@@ -1,0 +1,11 @@
+<HTML>
+<HEAD><TITLE>FRAME SET</TITLE>
+</HEAD>
+
+<FRAMESET cols="30,70">
+<FRAME SRC="OKSET.HTML">
+
+<FRAMESET rows="33.33,33.33,33.33">
+<FRAME SRC="abc.html">
+<frame src="DESIGNATION.html">
+<frame src="CONTROVERSY.HTML">
