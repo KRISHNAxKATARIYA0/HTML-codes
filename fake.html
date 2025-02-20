@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><center>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hacker Mode</title>
+    <style>
+        body {
+            background-color: black;
+            color: green;
+            font-family: monospace;
+            font-size: 18px;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <pre id="output"></pre>
+    <script>
+        const fakeCode = [
+            "Initializing system...",
+            "Bypassing firewall...",
+            "Accessing mainframe...",
+            "Downloading database...",
+            "Encrypting files...",
+            "tu gaya ab ✅"
+        ];
+        let index = 0;
+        document.addEventListener("keydown", () => {
+            if (index < fakeCode.length) {
+                document.getElementById("output").innerText += fakeCode[index] + "\n";
+                index++;
+            }
+        });
+    </script>
+</body>
+</html>
